@@ -7,14 +7,8 @@ Jennifer J. Freer, Geraint Tarling, Rupert A. Collins, Martin Collins, Julian C.
 
 FOLDER: 1_input_data
 
-FILE: gbif_occurrences_raw_1.csv
-Downloaded occurrence records of Myctophidae (family Benthosema – Hygophum) from the Global Biodiversity Information Facility (GBIF).  Records included here are the raw, unprocessed occurrence records accessed in 2016 with all GBIF associated metadata. These occurrence records underwent further quality assurance and control processes. 
-
-FILE: gbif_occurrences_raw_2.csv
-Downloaded occurrence records of Myctophidae (family Idiolychnus – Metelectrona) from the Global Biodiversity Information Facility (GBIF).  Records included here are the raw, unprocessed occurrence records accessed in 2016 with all GBIF associated metadata. These occurrence records underwent further quality assurance and control processes. 
-
-FILE: gbif_occurrences_raw_3.csv
-Downloaded occurrence records of Myctophidae (family Myctophum – Triphoturus) from the Global Biodiversity Information Facility (GBIF).  Records included here are the raw, unprocessed occurrence records accessed in 2016 with all GBIF associated metadata. These occurrence records underwent further quality assurance and control processes. 
+FILE: gbif_occurrences_raw.zip
+Downloaded occurrence records of Myctophidae from the Global Biodiversity Information Facility (GBIF).  Records included here are the raw, unprocessed occurrence records accessed in 2016 with all GBIF associated metadata. These occurrence records underwent further quality assurance and control processes.  
 
 FILE: gbif_occurrences_cleaned.csv
 Cleaned and processed GBIF occurrence records of Myctophidae and the environmental conditions associated to each presence locality for use in ecological niche modelling analyses. Quality assurance and control processes included Unreliable data, which included removing records with identical latitude and longitude, and records with a latitude and longitude corresponding to a terrestrial location. Duplicate records were excluded from model runs. Environmental predictor columns include:
