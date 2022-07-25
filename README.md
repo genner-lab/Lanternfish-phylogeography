@@ -1,3 +1,5 @@
+<a href="https://zenodo.org/badge/latestdoi/511675612"><img src="https://zenodo.org/badge/511675612.svg" alt="DOI"></a>
+
 # Lanternfish-phylogeography
 Global phylogeography of lanternfish paper
 
