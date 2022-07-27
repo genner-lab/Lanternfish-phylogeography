@@ -25,14 +25,13 @@ temp_oxy_0mpca1 = 1st principal component of variation between sea surface tempe
 temp_oxy_200mpca1 = 1st principal component of variation between temperature and dissolved oxygen at 200m
 oceanbasin = categorical predictor indicating position within 10 main oceans and seas (Arctic Ocean, North and South Atlantic Ocean, North and South Pacific Ocean, Southern Ocean, Indian Ocean, Baltic Sea, Mediterranean Region, South China and Eastern Archipelagic Seas).
 
-FILE: is3_photophore_images_1.zip
-Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Benthosema to Ceratoscopelus, inclusive.
+FILE: is3_photophore_images_1.zip Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Benthosema to Ceratoscopelus, inclusive.
 
-FILE: is3_photophore_images_2.zip
-Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Diaphus to Electrona, inclusive.
+FILE: is3_photophore_images_2.zip Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Diaphus to Diogenichthys, inclusive.
 
-FILE: is3_photophore_images_3.zip
-Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Gonichthys to Triphotorus, inclusive.
+FILE: is3_photophore_images_3.zip Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Electrona to Myctophum, inclusive.
+
+FILE: is3_photophore_images_4.zip Myctophid images used as input to the Interactive Individual Identification System (IS3) software v.4.02 for photophore dissimilarity analysis. Contains Nannobrachium to Triphoturus, inclusive.
 
 FILE: species_depth_info.csv
 Recorded maximum and minimum depth of occurrence for each Myctophid species used as input to depth overlap analysis.
